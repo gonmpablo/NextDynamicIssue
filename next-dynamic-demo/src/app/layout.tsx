@@ -14,6 +14,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <div>NEXTJS 15</div>
         {children}
       </body>
     </html>
