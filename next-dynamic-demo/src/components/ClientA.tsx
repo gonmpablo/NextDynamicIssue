@@ -13,8 +13,6 @@ export default function ClientA() {
         justifyContent: 'center',
         fontSize: '3rem',
         fontWeight: 'bold',
-        }}>
-            CLIENT A
-        </div>
+        }}>CLIENT A</div>
   )
 }
